@@ -17,15 +17,15 @@ namespace detect_handle
     {
         static void Main(string[] args)
         {
-            var myLogger = new con_log();
+            var Logger = new con_log();
 
             using (var detector = new handle_detector(myLogger))
             {
                 detector.on_first_suspicious += (ev) =>
-                    myLogger.log_handle_detection($"PID={ev.owner_pid} Name={ev.owner_name}");
+                    Logger.log_handle_detection($"PID={ev.owner_pid} Name={ev.owner_name}");
 
                 detector.on_escalated_suspicious += (ev) =>
-                    myLogger.log_handle_detection($"PID={ev.owner_pid} Name={ev.owner_name}");
+                    Logger.log_handle_detection($"PID={ev.owner_pid} Name={ev.owner_name}");
 
                 detector.start_background_scanning();
 
@@ -33,4 +33,5 @@ namespace detect_handle
             }
         }
     }
+
 }
