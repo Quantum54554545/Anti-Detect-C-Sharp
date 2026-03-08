@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6KL/merxOu0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\duduck\\source\\repos\\detect_handle\\detect_handle\\detect_handle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duduck\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.3\\microsoft.dotnet.ilcompiler.10.0.3.nupkg.sha512",
+    "C:\\Users\\duduck\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.3\\microsoft.net.illink.tasks.10.0.3.nupkg.sha512",
+    "C:\\Users\\duduck\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\duduck\source\repos\detect_handle\detect_handle\bin\Debug\net10.0\detect_handle.exe
+C:\Users\duduck\source\repos\detect_handle\detect_handle\bin\Debug\net10.0\detect_handle.deps.json
+C:\Users\duduck\source\repos\detect_handle\detect_handle\bin\Debug\net10.0\detect_handle.runtimeconfig.json
+C:\Users\duduck\source\repos\detect_handle\detect_handle\bin\Debug\net10.0\detect_handle.dll
+C:\Users\duduck\source\repos\detect_handle\detect_handle\bin\Debug\net10.0\detect_handle.pdb
+C:\Users\duduck\source\repos\detect_handle\detect_handle\obj\Debug\net10.0\detect_handle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duduck\source\repos\detect_handle\detect_handle\obj\Debug\net10.0\detect_handle.AssemblyInfoInputs.cache
+C:\Users\duduck\source\repos\detect_handle\detect_handle\obj\Debug\net10.0\detect_handle.AssemblyInfo.cs
+C:\Users\duduck\source\repos\detect_handle\detect_handle\obj\Debug\net10.0\detect_handle.csproj.CoreCompileInputs.cache
+C:\Users\duduck\source\repos\detect_handle\detect_handle\obj\Debug\net10.0\detect_handle.dll
+C:\Users\duduck\source\repos\detect_handle\detect_handle\obj\Debug\net10.0\refint\detect_handle.dll
+C:\Users\duduck\source\repos\detect_handle\detect_handle\obj\Debug\net10.0\detect_handle.pdb
+C:\Users\duduck\source\repos\detect_handle\detect_handle\obj\Debug\net10.0\detect_handle.genruntimeconfig.cache
+C:\Users\duduck\source\repos\detect_handle\detect_handle\obj\Debug\net10.0\ref\detect_handle.dll
