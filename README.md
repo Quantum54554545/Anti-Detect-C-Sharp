@@ -7,7 +7,7 @@
 **HandleGuard** is a super universal and powerful protection. It catches memory editors, debuggers, and malicious stuff trying to poke around in your app's memory.
 
 ## ✨ Why it's cool
-* **Runs anywhere:** Works flawlessly on **.NET Core**, **.NET Framework**, and is 100% ready for **Native AOT** (which is highly recommended for stealth and speed).
+* **Runs anywhere:** Works flawlessly on **.NET Core**, **.NET Framework**, and is 100% ready for **Native AOT**.
 * **Catches almost everything:** It detects a ton of different threats out of the box:
   * Memory Scanners (Cheat Engine, ArtMoney, etc.)
   * Debuggers (x64dbg, OllyDbg, WinDbg)
